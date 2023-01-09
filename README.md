@@ -38,6 +38,6 @@
 
 ## 5. 参考
 
-1. 项目文档：
+1. 项目文档：https://nankai.feishu.cn/docx/SzIad2B7Boe5uyxF804c6Ssznab
 2. mediapipe.hands文档：https://google.github.io/mediapipe/solutions/hands
 3. opencv文档：https://docs.opencv.org/4.x/
